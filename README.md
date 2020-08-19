@@ -4,8 +4,7 @@
                               
 
 `Data Clustering Algorithms` `Machine Learning` `Classification Algorithms` 
-`Decision Tree` `Deep Learning` `Linear Regression` `Logistic Regression` `Regression Analysis` `Ridge Regression` `Lasso (Statistics)`  `code` `code` `code` `code` `code`
-
+`Decision Tree` `Deep Learning` `Linear Regression` `Logistic Regression` `Regression Analysis` `Ridge Regression` `Lasso (Statistics)` 
 
 
 ## Applied Learning Project
